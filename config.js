@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["255765913582", "𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ", false],
   [''], 
   [''] 
 ]
@@ -20,7 +20,7 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['255765913582'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -106,9 +106,9 @@ global.gpt6 = fs.readFileSync("./Assets/GPT/gpt6.png")
 
 
 // Randome
-global.princeMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img16, img17]
-global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11]
-global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
+global.𝐰ι𝓩ａ𝔯ⒹMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img16, img17]
+global.𝐰ι𝓩ａ𝔯ⒹImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11]
+global.𝐰ι𝓩ａ𝔯Ⓓgpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 //💌------------------------------------------💌
 
 
@@ -120,10 +120,10 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = '𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ'
+global.princebot = '🛡️𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ🛡️'
+global.packname = '𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ♥️' 
+global.author = '𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
